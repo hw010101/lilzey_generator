@@ -1,4 +1,3 @@
-# lilzey_generator
 
 This simple tool helps you generate random passwords.
 
