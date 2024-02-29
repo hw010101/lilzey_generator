@@ -1,4 +1,3 @@
-# lilzey_generator
 
 This simple tool helps you generate random passwords.
 
@@ -27,4 +26,5 @@ This simple tool helps you generate random passwords.
 You can run the program with the following command:
 
 ```bash
-python3 lilzey_generator.py
+python3 generator.py
+
