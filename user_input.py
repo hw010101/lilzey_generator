@@ -1,5 +1,10 @@
-# user_input.py
+def get_user_input(message):
+    user_input = input(message)
+    return user_input
 
-def get_user_input():
-    # Kullanıcıdan giriş almak ve uygun türde işlemek için kodlar buraya
-    pass
+def main():
+    user_name = get_user_input("Enter your name: ")
+    print(f"Hello, {user_name}!")
+
+if __name__ == "__main__":
+    main()

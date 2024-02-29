@@ -1,6 +1,7 @@
 # main.py
 
-from lilzey_generator import generator, user_input
+from generator import generate_password
+from user_input import get_user_input
 
 def main():
     # Ana program mantığı burada
